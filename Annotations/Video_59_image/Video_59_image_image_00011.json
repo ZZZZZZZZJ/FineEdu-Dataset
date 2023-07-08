@@ -1,0 +1,602 @@
+{
+  "images": {
+    "filename": "Video_59_image_image_00011.jpg",
+    "image_Id": 1686,
+    "width": 2880,
+    "height": 2160
+  },
+  "persons": [
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        211,
+        1106.5,
+        493.4,
+        1504.4
+      ],
+      "pose_id": "lower the head",
+      "action_id": [
+        "read"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "pad",
+        "gaze_bbox": [
+          253.9,
+          1464.8,
+          381.9,
+          1540.8
+        ]
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        2293.3,
+        1369.8,
+        2611.7,
+        1872.8
+      ],
+      "pose_id": "lower the head",
+      "action_id": [
+        "talk"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "pad",
+        "gaze_bbox": [
+          2440,
+          1772.6,
+          2615.5,
+          1884.4
+        ]
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        1971.5,
+        1413.7,
+        2447.1,
+        1878.9
+      ],
+      "pose_id": "turn around",
+      "action_id": [
+        "talk"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "pad",
+        "gaze_bbox": [
+          2440,
+          1772.6,
+          2615.5,
+          1884.4
+        ]
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        53.9,
+        1163.8,
+        250.6,
+        1485.9
+      ],
+      "pose_id": "lower the head",
+      "action_id": [
+        "write"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "book",
+        "gaze_bbox": [
+          0,
+          1444.1,
+          115.7,
+          1538
+        ]
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        266.5,
+        937.4,
+        474.1,
+        1245.6
+      ],
+      "pose_id": "lower the head",
+      "action_id": [
+        "unknown"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "unknown",
+        "gaze_bbox": []
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        502.1,
+        928.4,
+        708,
+        1246.1
+      ],
+      "pose_id": "lower the head",
+      "action_id": [
+        "play phone"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "phone",
+        "gaze_bbox": [
+          607.9,
+          1115,
+          637.7,
+          1148.5
+        ]
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        502.9,
+        1122.2,
+        727.4,
+        1549.5
+      ],
+      "pose_id": "lift the head",
+      "action_id": [
+        "look blackboard"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "blackboard",
+        "gaze_bbox": []
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        707.8,
+        890.4,
+        894.6,
+        1242
+      ],
+      "pose_id": "turn aside",
+      "action_id": [
+        "distracted"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "unknown",
+        "gaze_bbox": []
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        589.2,
+        795.2,
+        711.4,
+        959.1
+      ],
+      "pose_id": "lower the head",
+      "action_id": [
+        "read"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "book",
+        "gaze_bbox": [
+          616.9,
+          939.3,
+          714.3,
+          975.6
+        ]
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        1077.2,
+        699.8,
+        1209.8,
+        881.1
+      ],
+      "pose_id": "lower the head",
+      "action_id": [
+        "read"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "book",
+        "gaze_bbox": [
+          1101.8,
+          832.7,
+          1192.5,
+          858.4
+        ]
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        900.1,
+        675.2,
+        1017.7,
+        862.3
+      ],
+      "pose_id": "lower the head",
+      "action_id": [
+        "unknown"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "unknown",
+        "gaze_bbox": []
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        1948.7,
+        681.1,
+        2084.5,
+        815.3
+      ],
+      "pose_id": "lower the head",
+      "action_id": [
+        "read"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "book",
+        "gaze_bbox": [
+          2006.6,
+          793.4,
+          2075.8,
+          813.7
+        ]
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        2128.1,
+        672.9,
+        2268.9,
+        816.4
+      ],
+      "pose_id": "lower the head",
+      "action_id": [
+        "unknown"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "unknown",
+        "gaze_bbox": []
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        809,
+        726.4,
+        945.5,
+        943.4
+      ],
+      "pose_id": "lift the head",
+      "action_id": [
+        "look blackboard"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "blackboard",
+        "gaze_bbox": []
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        999.3,
+        710.1,
+        1133.5,
+        943.4
+      ],
+      "pose_id": "lift the head",
+      "action_id": [
+        "look blackboard"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "blackboard",
+        "gaze_bbox": []
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        1769.3,
+        761.3,
+        1954.6,
+        1018
+      ],
+      "pose_id": "lower the head",
+      "action_id": [
+        "small action"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "unknown",
+        "gaze_bbox": []
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        2170.3,
+        708.5,
+        2325.5,
+        899.8
+      ],
+      "pose_id": "lower the head",
+      "action_id": [
+        "read"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "book",
+        "gaze_bbox": [
+          2220.9,
+          853.9,
+          2281.5,
+          907.4
+        ]
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        1997.8,
+        704.1,
+        2156.1,
+        918.4
+      ],
+      "pose_id": "lower the head",
+      "action_id": [
+        "read"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "book",
+        "gaze_bbox": [
+          2032.2,
+          873.9,
+          2128,
+          912
+        ]
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        2225.6,
+        798.8,
+        2394.1,
+        1032.5
+      ],
+      "pose_id": "lower the head",
+      "action_id": [
+        "read"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "book",
+        "gaze_bbox": [
+          2277.6,
+          1001.6,
+          2370,
+          1039.8
+        ]
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        2362.8,
+        862.6,
+        2525.9,
+        1194.7
+      ],
+      "pose_id": "turn aside",
+      "action_id": [
+        "look blackboard"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "blackboard",
+        "gaze_bbox": []
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        2095.3,
+        922.1,
+        2328.5,
+        1184.1
+      ],
+      "pose_id": "lower the head",
+      "action_id": [
+        "write"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "book",
+        "gaze_bbox": [
+          2173,
+          1155.6,
+          2326.7,
+          1214.4
+        ]
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        1810,
+        1089.3,
+        2132.7,
+        1467.7
+      ],
+      "pose_id": "lower the head",
+      "action_id": [
+        "read"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "book",
+        "gaze_bbox": [
+          1943.6,
+          1410.2,
+          2152.7,
+          1507.9
+        ]
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        729.8,
+        690.5,
+        849.4,
+        873.3
+      ],
+      "pose_id": "turn aside",
+      "action_id": [
+        "distracted"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "unknown",
+        "gaze_bbox": []
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        704.8,
+        792.6,
+        881.4,
+        1057.1
+      ],
+      "pose_id": "lift the head",
+      "action_id": [
+        "look blackboard"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "blackboard",
+        "gaze_bbox": []
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        869.9,
+        779.7,
+        1038.9,
+        1068.6
+      ],
+      "pose_id": "turn aside",
+      "action_id": [
+        "talk"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "unknown",
+        "gaze_bbox": []
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        2188.5,
+        1059.7,
+        2424.5,
+        1455.7
+      ],
+      "pose_id": "lower the head",
+      "action_id": [
+        "talk"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "unknown",
+        "gaze_bbox": []
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        2423.6,
+        1135.2,
+        2620.9,
+        1464.8
+      ],
+      "pose_id": "turn aside",
+      "action_id": [
+        "talk"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "unknown",
+        "gaze_bbox": []
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        1799.7,
+        871.4,
+        2016.7,
+        1198
+      ],
+      "pose_id": "turn aside",
+      "action_id": [
+        "look student"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "student",
+        "gaze_bbox": [
+          2188.5,
+          1059.7,
+          2424.5,
+          1455.7
+        ]
+      }
+    },
+    {
+      "image_Id": 1686,
+      "person_id": "student",
+      "person_bbox": [
+        2690.2,
+        1426.2,
+        2879.9,
+        1823.5
+      ],
+      "pose_id": "lower the head",
+      "action_id": [
+        "unknown"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "unknown",
+        "gaze_bbox": []
+      }
+    }
+  ]
+}

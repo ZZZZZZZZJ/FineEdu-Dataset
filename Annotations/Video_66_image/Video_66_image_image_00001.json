@@ -1,0 +1,110 @@
+{
+  "images": {
+    "filename": "Video_66_image_image_00001.jpg",
+    "image_Id": 1743,
+    "width": 2880,
+    "height": 2160
+  },
+  "persons": [
+    {
+      "image_Id": 1743,
+      "person_id": "student",
+      "person_bbox": [
+        0,
+        1588.3,
+        92.7,
+        1941.7
+      ],
+      "pose_id": "lower the head",
+      "action_id": [
+        "small action"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "unknown",
+        "gaze_bbox": []
+      }
+    },
+    {
+      "image_Id": 1743,
+      "person_id": "student",
+      "person_bbox": [
+        70.3,
+        1799.1,
+        191.4,
+        2033.9
+      ],
+      "pose_id": "lower the head",
+      "action_id": [
+        "read"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "book",
+        "gaze_bbox": [
+          66,
+          1870,
+          133.4,
+          1982.9
+        ]
+      }
+    },
+    {
+      "image_Id": 1743,
+      "person_id": "student",
+      "person_bbox": [
+        178.7,
+        1907.5,
+        272.5,
+        2041.8
+      ],
+      "pose_id": "lower the head",
+      "action_id": [
+        "read"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "book",
+        "gaze_bbox": [
+          182.7,
+          1965.4,
+          224.9,
+          2024.5
+        ]
+      }
+    },
+    {
+      "image_Id": 1743,
+      "person_id": "student",
+      "person_bbox": [
+        289.1,
+        2043.8,
+        366.3,
+        2160
+      ],
+      "pose_id": "lower the head",
+      "action_id": [
+        "unknown"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "unknown",
+        "gaze_bbox": []
+      }
+    },
+    {
+      "image_Id": 1743,
+      "person_id": "student",
+      "person_bbox": [
+        219.3,
+        1976.7,
+        333.7,
+        2160
+      ],
+      "pose_id": "lift the head",
+      "action_id": [
+        "look blackboard"
+      ],
+      "gaze_object": {
+        "gaze_object_id": "blackboard",
+        "gaze_bbox": []
+      }
+    }
+  ]
+}
