@@ -3,3 +3,4 @@
 
 ## To-do List
 * Release image features.
+* Release train-val pipelines.
