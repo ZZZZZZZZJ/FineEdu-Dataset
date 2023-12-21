@@ -12,6 +12,5 @@
 * Provide features of each image and person, extreacted from ResNet 50, and ResNet 101.
 
 ## To-do List
-* Release image features.
 * Release train-val pipelines.
 
