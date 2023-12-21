@@ -2,7 +2,7 @@
  A Fine-grained Class Students Behavior Understanding Dataset with Jointly Action and Attention Annotations
 
 ## Features Download
- The image and person features of FineEdu dataset via ResNet50 and ResNet101 can be downloaded from the Baidu cloud: \url{https://pan.baidu.com/s/1MKytYlX_naA1CagGUyyh4w?pwd=9ctr}
+ The image and person features of FineEdu dataset via ResNet50 and ResNet101 can be downloaded from the Baidu cloud: \https://pan.baidu.com/s/1MKytYlX_naA1CagGUyyh4w?pwd=9ctr
 
 ## Original Video/image Files Access
  To protect students' privacy, please download the data use agreement document, sign it, and submit it to zhangzhijun@hust.edu.cn.
